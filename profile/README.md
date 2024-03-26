@@ -5,4 +5,4 @@ Welcome to the **DevOpsBuddies** GitHub, we offers Devops,Cloud & Linux Training
 
 Please reach out to us at @DevOpsBuddies Over Twitter/Youtube
 
-![alt text](image.png)
+![image](https://github.com/DevOpsBuddies/.github/assets/133563308/26dfa181-80a1-4842-b291-ccae9f53ec5c)
