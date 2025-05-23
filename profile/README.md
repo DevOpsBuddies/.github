@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+DevOpsBuddies+GitHub+Profile!;Empowering+Cloud%2C+DevOps%2C+Kubernetes+Learners!;Let's+Start+Learning+Together+🚀" alt="Typing SVG" />
+</p>
+
+
 # Hello, DevOpsBuddies :cloud:
 
 ## Your Partner in DevOps, Cloud, and Containerization Excellence
