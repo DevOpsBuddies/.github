@@ -27,6 +27,12 @@ At DevOpsBuddies, we specialize in providing top-notch training and support serv
 
 For more information or to schedule a demo, please reach out to us. We're here to help you achieve your goals and drive success in your tech initiatives.
 
+---
+
+## ⚡ Tech Stack
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+
+---
 
 <img width="954" alt="Devopsbuddies" src="https://github.com/DevOpsBuddies/.github/assets/133563308/1e5a7dd8-bf41-4eb7-9f99-ecd29df1a46a">
 
